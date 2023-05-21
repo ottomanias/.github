@@ -1,5 +1,20 @@
-## Howdy Ottomanias 👋
+# 🛡️ Ottomanias
 
+⛓ Blockchain
+
+## Developing
+
+🌎 Website
+
+🤖 Bot
+
+🪙 Crypto $AKCE
+
+🌄 NFT
+
+## Channel
+
+Follow us on Discord: https://discord.gg/B2q8rSh8ES
 <!--
 
 **Here are some ideas to get you started:**
