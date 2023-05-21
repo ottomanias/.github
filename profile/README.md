@@ -1,6 +1,6 @@
-# 🛡️ Ottomanias
+# 🛡️ OTTOMANIAS
 
-⛓ Blockchain
+⛓ Ottoman Empire Blockchain
 
 ## Developing
 
@@ -14,7 +14,9 @@
 
 ## Channel
 
-Follow us on Discord: https://discord.gg/B2q8rSh8ES
+Free announcements are made on Discord. Follow us on discord so you don't miss anything.
+
+Discord: https://discord.gg/B2q8rSh8ES
 <!--
 
 **Here are some ideas to get you started:**
